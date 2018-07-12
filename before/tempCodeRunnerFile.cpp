@@ -1,0 +1,2 @@
+
+    srand((unsigned long) time
